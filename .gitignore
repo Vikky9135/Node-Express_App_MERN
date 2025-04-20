@@ -1,0 +1,28 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+*.env
+
+# Dependency directories
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Compiled output
+dist/
+build/
+
+# IDE and Editor configs
+.vscode/
+.idea/
+
+# OS generated files
+ehthumbs.db
+Icon?
